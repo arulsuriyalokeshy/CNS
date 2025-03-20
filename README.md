@@ -53,14 +53,11 @@ print(f"Encrypted: {encrypted}")
 print(f"Decrypted: {decrypted}")
 ```
 
-### RESULT:-
-
-Thus, encryption and decryption of the given message by using Ceaser Cipher encryption algorithm is implemented successfully.
-
-
-
-
 ### OUTPUT :-
 
 ![image](https://github.com/user-attachments/assets/b0e9f20c-2961-4de5-bff1-814d705f6f20)
+
+### RESULT:-
+
+Thus, encryption and decryption of the given message by using Ceaser Cipher encryption algorithm is implemented successfully.
 
